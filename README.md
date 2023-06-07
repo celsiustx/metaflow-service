@@ -7,7 +7,7 @@ metaflow entities such as Flows, Runs, Steps, Tasks, and Artifacts.
 
 For more information, see [Metaflow's admin docs](https://admin-docs.metaflow.org/overview/service-architecture#metadata)
 
-## WIP: [metaflow-ui]([url](https://github.com/Netflix/metaflow-ui)) on Greenfield nodes
+## WIP: [metaflow-ui](https://github.com/Netflix/metaflow-ui) on Greenfield nodes
 
 https://github.com/celsiustx/metaflow-service/assets/465045/d91bd460-6d05-40a4-899f-7c26f2f60452
 
